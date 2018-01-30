@@ -66,8 +66,6 @@ This week was the studio practice week for our team to work on the pillars proje
 
 ## Week 7
 
-and so on...
-
 Comp-150 included more work on academic writing with us learning about agile research practices and had more studio practice to continue with work on our game in the week.
 
 Comp-120 was our first session on tinkering audio and boy was it initially confusing. Found it alot harder to grasp than the previous tinkering graphics sessions.
@@ -75,8 +73,6 @@ Comp-120 was our first session on tinkering audio and boy was it initially confu
 Comp-110 session was mostly about mathematics and how it applys greatly computing. alot of info about algebra and geometry. The session ended with a worksheet c review.  
 
 ## Week 8
-
-and so on...
 
 Comp-110 this week started with a Peer review of our current drafts of the research journal followed by a lecture on basic data structures such as arrays and linked lists. As normal for me i find comp 110 quite dry but full of useful programming information. 
 
@@ -87,15 +83,11 @@ Comp-150 The first session involved a peer review for the academic essay initial
 
 ## Week 9
 
-and so on...
-
 Comp-150 CPD review this week to see how the class is doing on writing their weekly development report. We have also been given our new teams that we are working with for our next project in the 2nd term. 
 
 Comp-120 lesson was mostly about synthesizer's and writing programs that can create a melody out of a musical notation. our pair has started to get to grips with understanding how to use audio within programming correctly and is now working towards completing our audio assignment.
 
 ## Week 10
-
-and so on...
 
 Comp-150  This was the live demonstration week for the game that I was working on with team colossus. Unfortunately it didn't go as well as expected alot of issues with the build character couldn't even move correctly across the screen. But we got through the presentation and took the criticism on the chin.  
 
@@ -105,8 +97,6 @@ Comp-110 A lecture about computer architecture and compilers and interpreter's.
 
 ## Week 11
 
-and so on...
-
 Comp-150 This session was focused on learning more advanced version control techniques. A good section of this was a workshop focused on branching which I found very useful to take part in. We also took a look at unit testing with TravisCI 
 
 Comp-120 This week was very great for me. We started our first lesson on the unreal engine. This included looking at the differences programming wise between c++ and python. We also started to work on creating a game demo in unreal engine.
@@ -114,8 +104,6 @@ Comp-120 This week was very great for me. We started our first lesson on the unr
 Comp-110 2nd lecture on data structures. this time focused on more advanced data structures such as trees and DAGS. sadly i can't talk much more on this as i missed the main lecture. 
 
 ## Week 12
-
-and so on...
 
 Comp-150 In this session our new team with our fellow BA students demonstrated our new game project that will be developed in unreal engine. We chose a top down shooting game known currently as blastback. I believe the presentation also went quite well which i'm quite happy about.
 
